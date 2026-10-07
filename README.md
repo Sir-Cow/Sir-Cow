@@ -1,16 +1,15 @@
 <img src=".github/assets/banner.jpg"/>
-<div style="float: right; width: 48px;">
-<img src=".github/assets/mc-head.png" width="48"/>
-</div>
-<div style="float: left; width: 48px;">
-<img src=".github/assets/mc-head.png" width="48"/>
-</div>
-<center>
+<div align="center" style="position: relative;">
+
+<img src=".github/assets/mc-head.png" width="48" align="left">
+
+<img src=".github/assets/mc-head.png" width="48" align="right">
+
 hi! I am Sir_Cow 🐮
 
 i like coding stuff!
 
-</center>
+</div>
 
 ## Workflow
 
