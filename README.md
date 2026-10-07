@@ -1,9 +1,9 @@
 <img src=".github/assets/banner.jpg"/>
 <div style="float: right; width: 48px;">
-<img src=".github/assets/mc-head.png"/>
+<img src=".github/assets/mc-head.png" width="48"/>
 </div>
 <div style="float: left; width: 48px;">
-<img src=".github/assets/mc-head.png"/>
+<img src=".github/assets/mc-head.png" width="48"/>
 </div>
 <center>
 hi! I am Sir_Cow 🐮
